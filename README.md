@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on yayabot<br>🌱 I’m currently learning JS and Python<br>💬 Ask me about games<br>⚡ Fun fact: I don’t know what I’m doing but I'm willing to try
+🔭 I’m currently working on [a music player](https://github.com/jddivoky/jddivoky/music-player)<br>🌱 I’m currently learning JS and Python<br>💬 Ask me about games<br>⚡ Fun fact: I don’t know what I’m doing but I'm willing to try
 
 
 ## 🌐 Socials:
